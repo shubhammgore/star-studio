@@ -1,20 +1,8 @@
 # 🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
 
-This repository contains starter code for Fashion Studio Website in ReactJS. <br />
-
 View Demo👇: <br />
 https://wibe-studio.netlify.app/ <br />
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Ra1Fsa9YJCk <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Ra1Fsa9YJCk?style=social)](https://youtu.be/Ra1Fsa9YJCk)<br />
-
-### Images of The Fashion Studio Website:
-
-![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Desktop.png)
-![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Desktop.png)
-![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Moblie.png)
-![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Mobile.png)
 
 ### Resources Used in This Project
 
@@ -77,11 +65,3 @@ https://www.pexels.com/@raulkingr<br />
 Yellow Dress: Photo by Godisable Jacob from Pexels<br />
 https://www.pexels.com/@godisable-jacob-226636<br />
 
-### Famous Quotes Used:
-
-"Fashion is the armour to survive the reality of everyday life."<br />
--- bill cunningham
-
-"One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
